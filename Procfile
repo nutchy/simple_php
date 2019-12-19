@@ -1,0 +1,1 @@
+web: vendor/bin/simple-php web/
