@@ -1,1 +1,1 @@
-web: simple-php
+web: vendor/bin/heroku-php-apache2
